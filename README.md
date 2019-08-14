@@ -1,0 +1,2 @@
+# LearnMysql
+learning MySQL basics
